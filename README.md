@@ -9,12 +9,12 @@ This repository contains scripts and data for the structural analysis of α-synu
 
 | Directory / File | Description |
 |-----------------|-------------|
-| `TMtools20190822` | Scripts for TM-align structure comparison (version 20190822). |
-| `alphasyn_intermediate_structures_pdb` | Alpha-synuclein intermediate PDB structures used in analyses. |
+| `TMtools20190822` | Scripts for TM-Score structure comparison (version 20190822). |
+| `alphasyn_intermediate_structures_pdb` | α-synuclein intermediate PDB structures and results used in analyses. |
 | `asyn_1-99_Q_DA_paper_vs_ML_paper` | Comparison files for α-synuclein residues 1–99. |
 | `asyn_36-93_Q_DA_paper_vs_ML_paper` | TM-score results for α-synuclein residues 36–93. |
-| `comparison_of_chains` | Files for comparing individual chains and their clustering. |
-| `sorting_chains.py` | Python script for sorting and clustering protein chains. |
+| `comparison_of_chains` | Files for comparing individual chains. |
+| `sorting_chains.py` | Python script for sorting protein chains. |
 | `tm_score.sh` | Bash script to calculate TM-score between PDB files. |
 
 
